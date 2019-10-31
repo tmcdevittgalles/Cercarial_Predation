@@ -15,3 +15,8 @@ setwd( "~/Desktop/Current_Projects/Cercarial_Predation" )
 
 # load in data
 field.df <- read.csv("./Data/Raw_Data/Cercarial_Predators.csv")
+
+
+str(field.df)
+
+test 1
